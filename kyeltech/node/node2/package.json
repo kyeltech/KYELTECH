@@ -1,0 +1,21 @@
+{
+  "name": "kyeltech",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node_demo.js",
+  "scripts": {
+    "test": "npm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "kyeltech"
+  },
+  "keywords": [
+    "kyel"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.5.5"
+  }
+}
