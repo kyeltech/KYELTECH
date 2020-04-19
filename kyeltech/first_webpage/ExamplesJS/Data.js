@@ -28,7 +28,7 @@
         } else if (Principal >= 2500 && Time >= 3) {
         rate = 4;
         } else if (Principal < 2500 || Time <= 1) {
-        rate = 2;
+        rate = 2;             
         } else {
         rate = 1;
         }
